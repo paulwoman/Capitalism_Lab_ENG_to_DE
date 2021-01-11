@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The type of product that the unit is currently manufacturing.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Der Produkttyp, den die Einheit derzeit herstellt.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This area shows the stock of the product in the unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Dieser Bereich zeigt den Bestand des Produktes an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each box represents one cargo of the product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Jede Box repräsentiert eine Ladung des Produktes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each cargo can store a certain number of units of the product.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Jede Ladung kann eine bestimmte Anzahl von Einheiten des Produkts speichern.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stocks of raw materials are represented by a row of green bars here.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Die Rohstoffbestände werden hier durch eine Reihe von grünen Balken dargestellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The length of each bar indicates the quantity of the raw material stocked in the unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Die Länge jedes Balkens gibt die Menge des in der Einheit gelagerten Rohmaterials an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During a manufacturing process, raw materials must first go into a manufacturing unit and then converted into products.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Während eines Herstellungsprozesses müssen die Rohstoffe zunächst in eine Produktionseinheit und dann in Produkte umgewandelt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The manufacturing process is suspended whenever any of its required raw materials is lacking.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Der Herstellungsprozess wird unterbrochen, wenn einer der benötigten Rohstoffe fehlt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thus, to have the unit operating at maximum efficiency, you must provide a consistent supply of raw materials.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Damit das Gerät mit maximaler Effizienz arbeitet, müssen Sie also für eine gleichmäßige Versorgung mit Rohstoffen sorgen.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This brown bar shows the utilization of the unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Dieser braune Balken zeigt die Auslastung der Einheit an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this bar reaches its full length, the unit has reached its full capacity.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Wenn dieser Balken seine volle Länge erreicht hat, dann hat die Einheit ihre volle Kapazität erreicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It can manufacture no more goods even if there is additional supply and demand.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Sie kann auch bei zusätzlichem Angebot und Nachfrage keine Ware mehr herstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On the other hand, if this bar is short, this indicates that its facilities and resources are not being used effectively.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Auf der anderen Seite, wenn dieser Balken klein ist, deutet dies darauf hin, dass seine Einrichtungen und Ressourcen nicht effektiv genutzt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This might contribute to the firm's low profitability.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002453Z">
+        <seg>Dies könnte zur geringen Profitabilität des Unternehmens beitragen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The type of livestock product being produced.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Die Art des erzeugten tierischen Erzeugnisses.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This area shows the stock of the product in the unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Dieser Bereich zeigt den Bestand des Produktes in der Einheit an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each box represents one cargo of the product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Jede Box repräsentiert eine Ladung des Produktes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each cargo can store a certain number of units of the product.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Jede Ladung kann eine bestimmte Anzahl von Einheiten des Produkts speichern.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The yellow bar is the livestock supply bar.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Der gelbe Balken ist der Versorgungsbalken für das Vieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Der orangefarbene Balken ist der Balken für die Verarbeitungskapazität.^^Wenn der Balken für die Viehversorgung kürzer ist als der Balken für die Verarbeitungskapazität, bedeutet dies, dass die Einheit nicht ausgelastet ist und mehr Vieh verarbeiten kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You could link additional input units to it to exploit its capacity.^^Conversely, if the livestock supply bar is longer than the processing capacity bar, the unit has reached its full capacity and cannot process all livestock sent to it.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Umgekehrt hat die Einheit ihre volle Kapazität erreicht und kann nicht alle an sie gesendeten Tiere verarbeiten, wenn die Versorgungsleiste länger als die Verarbeitungsleiste ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You could set up a new livestock process unit to lessen the workload of the current one.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Sie könnten eine neue Viehverarbeitungseinheit einrichten, um die Arbeitslast der aktuellen zu verringern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You could also increase the training budget for the current unit, which would increase the unit's productivity in long term.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
+        <seg>Sie könnten auch das Schulungsbudget für die aktuelle Einheit erhöhen, was die Produktivität der Einheit langfristig erhöhen würde.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

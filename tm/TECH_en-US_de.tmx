@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Technology~</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003009Z">
+        <seg>~Technology Name~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The type of technology currently being researched.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003009Z">
+        <seg>Die Art der Technologie, die derzeit erforscht wird.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~R&amp;D Progress~</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003009Z">
+        <seg>~R&amp;D Duration~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The progress of the current R&amp;D project.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003009Z">
+        <seg>Die Dauer des F&amp;E-Plans.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Loyalty~</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003009Z">
+        <seg>~Progress Indicator~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The employee loyalty of the team lead.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003009Z">
+        <seg>Der Fortschritt des aktuellen F&amp;E-Plans.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

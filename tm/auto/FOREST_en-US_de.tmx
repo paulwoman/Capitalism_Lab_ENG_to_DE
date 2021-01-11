@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The raw material which the unit is currently producing.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002251Z">
+        <seg>Der Rohstoff, den die Anlage derzeit produziert.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This area shows the stock of the raw material in the unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002251Z">
+        <seg>Dieser Bereich zeigt den Bestand des Rohmaterials in der Einheit an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each box represents one cargo of the raw material.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002251Z">
+        <seg>Jede Kiste stellt eine Ladung des Rohmaterials dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each cargo can store a certain quantity of the raw material.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002251Z">
+        <seg>Jede Ladung kann eine bestimmte Menge des Rohmaterials speichern.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This brown bar shows the utilization of the unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002251Z">
+        <seg>Dieser braune Balken zeigt die Auslastung des Gerätes an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this bar reaches its full length, the unit has reached its full capacity.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002251Z">
+        <seg>Wenn dieser Balken seine volle Länge erreicht hat, dann hat das die Einheit die volle Kapazität erreicht.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

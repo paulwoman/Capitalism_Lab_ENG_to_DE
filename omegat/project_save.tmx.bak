@@ -54,30 +54,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>#So always open an information window if possible#.</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003329Z" creationid="OmegaT Aligner" creationdate="20210111T003329Z">
-        <seg>#So öffnen Sie immer ein Informationsfenster, wenn möglich#.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>#The Farmer's Guide# is the one that requires #the least amount of processing power#.^</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003329Z" creationid="OmegaT Aligner" creationdate="20210111T003329Z">
-        <seg>#Landwirt-Leitfaden# ist derjenige, der die geringste Rechenleistung erfordert.^</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>#This can save a lot of graphic processing time especially when the city is packed with buildings#.^</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003329Z" creationid="OmegaT Aligner" creationdate="20210111T003329Z">
-        <seg>#Das kann viel grafische Verarbeitungszeit sparen, besonders wenn die Stadt voller Gebäude ist#.^</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>#Venture Capitalists# only invest in companies in #pre-IPO rounds#.</seg>
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T001505Z" creationid="OmegaT Aligner" creationdate="20210111T001505Z">
@@ -214,14 +190,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>(You will notice that the cars are not moving.)^</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003329Z" creationid="OmegaT Aligner" creationdate="20210111T003329Z">
-        <seg>(Sie werden feststellen, dass sich die Autos nicht bewegen).^</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>(Your company is the majority shareholder of this company.)</seg>
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
@@ -262,14 +230,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>1)</seg>
-      </tuv>
-      <tuv lang="de" changeid="Olivier" changedate="20210111T003338Z" creationid="Olivier" creationdate="20210111T003338Z">
-        <seg>1)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>1) The city's local businesses benefit from increased competitiveness and #export#, thus hiring more workers and decreasing the city's #unemployment rate#.</seg>
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
@@ -290,14 +250,6 @@
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T001505Z" creationid="OmegaT Aligner" creationdate="20210111T001505Z">
         <seg>APART_SC Wohnungs Kapazität Modifikator</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>2)</seg>
-      </tuv>
-      <tuv lang="de" changeid="Olivier" changedate="20210111T003343Z" creationid="Olivier" creationdate="20210111T003343Z">
-        <seg>2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,14 +926,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Among the various types of screens on the #Information Center#, some will require more computer processing power to display than the others.</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003329Z" creationid="OmegaT Aligner" creationdate="20210111T003329Z">
-        <seg>Von den verschiedenen Arten von Bildschirmen des Informationszentrums benötigen einige mehr Rechenleistung für die Anzeige als die anderen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>An employee with a loyalty level of 80 or higher will not be headhunted by competitors.</seg>
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
@@ -1002,14 +946,6 @@
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
         <seg>Eine Versicherungsgesellschaft muss eine positive Kapitalquote aufrechterhalten.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>And use #Home# and #End# keys to jump to the top and bottom of a list box.^</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003415Z" creationid="OmegaT Aligner" creationdate="20210111T003415Z">
-        <seg>Und verwenden Sie die Tasten #Home# und #End#, um zum oberen und unteren Ende eines Listenfelds zu springen.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,14 +3894,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Game Speed, Game_Speed.txt</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003443Z" creationid="OmegaT Aligner" creationdate="20210111T003443Z">
-        <seg>Spielgeschwindigkeit, Game_Speed.txt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Game console companies run by AI will have higher initial capital.</seg>
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T001505Z" creationid="OmegaT Aligner" creationdate="20210111T001505Z">
@@ -4170,14 +4098,6 @@
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
         <seg>Gesundheitswesen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Hence, if you just want the game time to pass without needing to interact with any game user interfaces, you could #just open Farmer's Guide# (hotkey: F2) and the game time will advance #much faster#.^</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003329Z" creationid="OmegaT Aligner" creationdate="20210111T003329Z">
-        <seg>Wenn Sie also einfach nur die Spielzeit verstreichen lassen wollen, ohne mit den Benutzeroberflächen des Spiels interagieren zu müssen, #könnten Sie den Landwirt-Leitfaden# (Hotkey: F2) einfach öffnen, und die Spielzeit schreitet #viel schneller voran#.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -5726,14 +5646,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>List Box Browsing Keys, List_Box_Browsing_Keys.txt</seg>
-      </tuv>
-      <tuv lang="de" changeid="Olivier" changedate="20210111T003514Z" creationid="Olivier" creationdate="20210111T003514Z">
-        <seg>Listenfeld-Browsingtasten, List_Box_Browsing_Keys.txt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Loan Credit Rating</seg>
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
@@ -6362,14 +6274,6 @@
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
         <seg>Beachten Sie, dass diese Kredite zusammen mit den Krediten an lokale Unternehmen die Kreditsummen bilden, die auf der Seite [Alle Kredite] angezeigt werden.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Note that this is context sensitive — when there are several list boxes on the same screen, you can position your mouse cursor within one of the list boxes and the shortcut keys that you have pressed will affect the respective list box.</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003415Z" creationid="OmegaT Aligner" creationdate="20210111T003415Z">
-        <seg>Beachten Sie, dass dies kontextsensitiv ist - wenn sich mehrere Listenfelder auf demselben Bildschirm befinden, können Sie Ihren Mauszeiger innerhalb eines der Listenfelder positionieren und die von Ihnen gedrückten Tastenkombinationen wirken sich auf das jeweilige Listenfeld aus.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -9726,14 +9630,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The orange bar indicates the external demand of the product.</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003256Z" creationid="OmegaT Aligner" creationdate="20210111T003256Z">
-        <seg>Der orange Balken zeigt den externen Bedarf des Produktes an.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock.</seg>
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002223Z" creationid="OmegaT Aligner" creationdate="20210111T002223Z">
@@ -10042,14 +9938,6 @@
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003103Z" creationid="OmegaT Aligner" creationdate="20210111T003103Z">
         <seg>Die Art des Produkts in dieser Einheit.^</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The type of product that is available from this warehouse unit.^</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003256Z" creationid="OmegaT Aligner" creationdate="20210111T003256Z">
-        <seg>Der Produkttyp, der ab dieser Lagereinheit verfügbar ist.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -12022,14 +11910,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>When you are viewing the #firm detail window# or the #Information Center#, the game does #not# need to update the city graphics underneath the information window.</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003329Z" creationid="OmegaT Aligner" creationdate="20210111T003329Z">
-        <seg>Wenn Sie das Detailfenster oder das Informationszentrum betrachten, muss das Spiel die Stadtgrafiken unterhalb des Informationsfensters #nicht# aktualisieren.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>When you enable eCommerce sales for this firm, your eCommerce sites will add all consumer products from this firm to its catalog.</seg>
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
@@ -12242,14 +12122,6 @@
       </tuv>
       <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T002013Z" creationid="OmegaT Aligner" creationdate="20210111T002013Z">
         <seg>Sie können die Markenstrategie Ihres Unternehmens hier ändern, indem Sie auf eine der folgenden Markenstrategien klicken.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You can use #PgDn#/#PgUp# keys, and #Up#/#Down# keys to browse records within a list box.^</seg>
-      </tuv>
-      <tuv lang="de" changeid="OmegaT Aligner" changedate="20210111T003415Z" creationid="OmegaT Aligner" creationdate="20210111T003415Z">
-        <seg>Sie können die Tasten #PgDn#/#PgUp# und #Up#/#Down# verwenden, um Datensätze innerhalb eines Listenfelds zu durchsuchen.^</seg>
       </tuv>
     </tu>
     <tu>

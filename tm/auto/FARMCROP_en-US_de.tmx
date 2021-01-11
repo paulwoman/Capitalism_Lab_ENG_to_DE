@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The type of crop that being grown.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002126Z">
+        <seg>Die Art der Kultur, die angebaut wird.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When crops are harvested, they are stored in barns, which are represented by the blue bars.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002126Z">
+        <seg>Bei der Ernte werden sie in Scheunen gelagert, die durch die blauen Balken dargestellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The blue bars increases in length when crops are being harvested.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002126Z">
+        <seg>Die blauen Balken werden bei der Ernte länger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Conversely, their lengths decrease when crops are being sold.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002126Z">
+        <seg>Umgekehrt verringern sich ihre Längen beim Verkauf von Feldfrüchten.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bar indicates the growth progress of the crop.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002126Z">
+        <seg>Der Balken zeigt den Wachstumsfortschritt der Pflanze an.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

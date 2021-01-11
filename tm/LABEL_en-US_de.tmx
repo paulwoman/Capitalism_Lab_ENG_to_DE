@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[Private Labelling Unit]</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002412Z">
+        <seg>[Private Labelling Unit] ~Product Name~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A private labeling unit converts products of other brands to your own brand by labeling the product with your own corporate insignia.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002412Z">
+        <seg>Die Art des Produkts, das verarbeitet wird.^ ~Product Stock~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are tired of manufacturing products yourself, you can label products of a less popular brand with your own brand.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002412Z">
+        <seg>Dieser Bereich zeigt den Bestand des Produktes in der Einheit an. Jede Box repräsentiert eine Ladung des Produktes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This saves you the trouble of managing production lines and lets you concentrate on marketing.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002412Z">
+        <seg>Jede Ladung kann eine bestimmte Anzahl von Einheiten des Produkts speichern.^^^Die Anzahl der Einheiten, die eine Ladung aufnehmen kann, variiert von Produkt zu Produkt. Bei einigen teuren Produkten, wie z.B. Autos, kann eine Ladung nur wenige Einheiten des Produkts aufnehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any products directed into the private-labeling unit are relabeled immediately.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002412Z">
+        <seg>Bei kostengünstigeren Produkten, wie z.B. Shampoo, kann eine Ladung bis zu mehreren tausend Einheiten des Produkts aufnehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Usually linking a private labeling unit between a purchasing unit and a sale unit is the easiest way to label the products from another corporation.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002412Z">
+        <seg>Damit ist der Gesamtwert aller Ladungen aller Arten von Produkten etwa gleich.^ ~Utilization Bar~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this arrangement of units, the purchased goods from another company are labeled with your brand and resold as if you had produced them yourself.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002412Z">
+        <seg>Dieser braune Balken zeigt die Auslastung der Einheit an. Wenn diesrt Nalken seine volle Länge erreicht hat, dann hat die Einheit ihre volle Kapazität erreicht.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

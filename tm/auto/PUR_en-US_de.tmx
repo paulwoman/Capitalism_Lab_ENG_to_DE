@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The type of product that the unit is currently purchasing.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Die Art des Produkts, das die Einheit derzeit kauft.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This area shows the stock of the product in the unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Dieser Bereich zeigt den Bestand des Produkts in der Einheit an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each box represents one cargo of the product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Jede Box repräsentiert eine Ladung des Produkts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each cargo can store a certain number of units of the product.^^The number of units a cargo can hold varies from product to product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Jede Ladung kann eine bestimmte Anzahl von Einheiten des Produkts lagern.^^Die Anzahl der Einheiten, die eine Ladung aufnehmen kann, variiert von Produkt zu Produkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For some expensive products, such as cars, one cargo can hold only a few units of the product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Bei einigen teuren Produkten, wie beispielsweise Autos, kann eine Ladung nur wenige Einheiten des Produkts aufnehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Bei kostengünstigeren Produkten, wie z.B. Shampoo, kann eine Ladung bis zu mehreren tausend Einheiten des Produkts aufnehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This makes the total value of all cargoes of all types of products about the same.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Damit ist der Gesamtwert aller Ladungen aller Arten von Produkten etwa gleich.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The yellow bar indicates the supply of the product by the supplier.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Die gelbe Leiste zeigt die Lieferung des Produkts durch den Lieferanten an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The orange bar indicates the demand of the product from the current firm.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Der orangefarbene Balken zeigt die Nachfrage des Produkts von der aktuellen Firma an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the supply bar is shorter than the demand bar, that means there is a lack of supply.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Wenn die Angebotsleiste kleiner ist als die Nachfrageleiste, bedeutet das, dass ein Mangel an Angebot besteht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Overall firm performance may be affected by the lack of the supply.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Die Gesamtleistung des Unternehmens kann durch die mangelnde Versorgung beeinträchtigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this case, you should consider switching to a better supplier.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>In diesem Fall sollten Sie einen Wechsel zu einem besseren Lieferanten in Betracht ziehen.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This brown bar shows the utilization of the unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Der braune Balken zeigt die Auslastung der Einheit an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this bar reaches its full length, the unit has reached its full capacity.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002719Z">
+        <seg>Wenn dieser Balken seine volle Länge erreicht, hat die Einheit ihre volle Kapazität erreicht.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

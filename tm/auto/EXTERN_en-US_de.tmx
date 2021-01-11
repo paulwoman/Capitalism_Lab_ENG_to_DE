@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The rating points of the media in which the product is being advertised.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002056Z">
+        <seg>Die Bewertungspunkte der Medien, in denen das Produkt beworben wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It tells you how many people are watching the media.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002056Z">
+        <seg>Es sagt Ihnen, wie viele Leute die Medien sehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thus, the higher the rating points, the greater the effect of the advertising.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002056Z">
+        <seg>Je höher also die Bewertungspunkte, desto größer die Wirkung der Werbung.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This bar represents what the unit spends advertising the product monthly.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T002056Z">
+        <seg>Dieser Balken stellt dar, was die Einheit monatlich für die Werbung für das Produkt ausgibt.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

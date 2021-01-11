@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>In diesem Tutorial werden Sie geschult ein besserer Einzelhandelsmanager zu werden, und zu lernen, wie Sie Ihre Einzelhandelsgeschäfte anpassen können, um ihre betriebliche Effizienz und Rentabilität zu maximieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your objectives in this game are to achieve an annual revenue of $50,000,000 and an annual profit of $5,000,000.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Ihre Ziele in diesem Spiel sind es, einen Jahresumsatz von 50.000.000 $ und einen Jahresgewinn von 5.000.000 $ zu erreichen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now waste no time and get started working towards this goal.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Verschwenden Sie jetzt keine Zeit und beginnen Sie, auf dieses Ziel hinzuarbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To build your first store, click the ~Build~ icon.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Um Ihren ersten Shop zu erstellen, klicken Sie auf das ~Bauen~ Symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=3,25,52,62</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Pointer=31,30,79,58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now select ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wählen Sie nun ~Einzelhandelsgeschäft~ aus dem Menü.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Da Sie mehr Erfahrung im Einzelhandel haben, können Sie jetzt aus einer Reihe von Einzelhandelsgeschäften wählen, die Sie bauen möchten, darunter Kaufhäuser, Lebensmittelgeschäfte, Supermärkte, Discounter, Megastores und verschiedene Arten von Fachgeschäften.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>~Schnäppchenmärkte~ können alles verkaufen, was sie sehr vielseitig macht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wenn aus irgendeinem Grund die Belieferung des Ladens mit einem Produkt unterbrochen wird, können Sie es leicht durch ein anderes Produkt ersetzen. Andererseits kann ~ein Fachgeschäft~ nur eine bestimmte Produktpalette verkaufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, a furniture store can only sell furniture.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Beispielsweise kann ein Möbelhaus nur Möbel verkaufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a supply problem occurs, you may not be able to solve it as easily because of the limited types of products that a specialty store can sell.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wenn ein Lieferproblem auftritt, können Sie es möglicherweise nicht so einfach lösen, da die begrenzten Produkttypen, die ein Fachgeschäft verkaufen kann, begrenzt sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, specialty stores do have advantages over general stores.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Fachgeschäfte haben jedoch Vorteile gegenüber allgemeinen Geschäften.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Ein Fachgeschäft ist für Kunden, die sich für solche Produkte interessieren, attraktiver.^^Für ein Beispiel, ein Computergeschäft, das Computer verkauft, sollte ein benachbartes Kaufhaus, das das gleiche Produkt verkauft, übertreffen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Differences in quality, price and brand may even things out but that's for a later tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Unterschiede in Qualität, Preis und Marke können sich ausgleichen, aber das ist für ein späteres Tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Okay, enough of the theory.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Okay, genug von der Theorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wählen Sie nun ~Schnäppchenmarkt~ aus dem Menü und wählen Sie einen Standort, an dem Sie Ihr Geschäft bauen möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Notice anything different?</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Fällt Ihnen etwas auf?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>We can now see the ~Layout~ of your store, which is a 3x3 grid of boxes.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wir können nun das ~Layout~ Ihres Ladens sehen, das ein 3x3 Raster von Boxen ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Im vorherigen Tutorial mussten Sie nur auf das Symbol ~Produkt hinzufügen~ klicken und ein Produkt aus der Lieferantenliste auswählen, und das ausgewählte Produkt erschien automatisch in Ihrem Geschäft.^^Was Sie nicht gesehen haben, waren die ~Einkaufs- und Verkaufseinheiten~ in Ihrem Geschäft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These units actually do the real work!</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Diese Einheiten leisten tatsächlich die eigentliche Arbeit!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Um dies besser zu verstehen, fügen wir einfach ein Produkt nach der alten Methode, die Ihnen bekannt ist, dem Shop hinzu.^^Jetzt klicken Sie auf das Symbol ~Produkt hinzufügen~ und wählen Sie ein Produkt aus der Lieferliste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=70,120,185,230</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Pointer=55,120,165,230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>See the two units that have appeared in your layout grid?</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Sehen Sie die beiden Einheiten, die in Ihrem Layout-Raster erschienen sind?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Eine ist mit ~Einkauf~ bezeichnet und ist mit einer ~Verkaufseinheit~ verbunden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is your basic commerce unit grouping.^^Neither unit has much effect on its own but linked they allow your store to function.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Dies ist Ihre grundlegende Geschäftseinheit Gruppierung.^^Keine der beiden Einheiten hat viel Einfluss auf sich selbst, aber verbunden erlauben sie Ihrem Geschäft zu funktionieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Eine ~Einkaufseinheit~ tut genau das - sie kauft das Produkt, das Sie vom Lieferanten ausgewählt haben.^^Die ~Einkaufseinheit~ übergibt den Bestand an die ~Verkaufseinheit~, die das Produkt den Kunden anbietet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Simple eh?</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Einfach, was?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's have a closer look at each unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Lassen Sie uns einen genaueren Blick auf jede Einheit werfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are several indicators on the ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Es gibt mehrere Kennzeichen auf der ~Einkaufseinheit~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Der erste Indikator, eine ~blaue Linie von gestrichelten Rechtecken~, zeigt den Lagerbestand des Produkts an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Als nächstes sehen Sie die gelbe Angebotsleiste und die orange Nachfrageleiste.^^Die ~gelbe Angebotsleiste~ gibt die Angebotsmenge des Lieferanten an, und die ~orange Nachfrageleiste~ misst die Verbrauchernachfrage nach dem Produkt.^^Wenn die Angebotsleiste kürzer als die Nachfrageleiste ist, besteht ein Angebotsmangel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the supply shortage is persistent, you should consider switching to a better supplier.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wenn der Lieferengpass anhaltend ist, sollten Sie einen Wechsel zu einem besseren Lieferanten in Betracht ziehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~brown bar~ represents the unit's utilization level.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Der ~braune Balken~ stellt den Nutzungsgrad der Einheit dar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wenn dieser Balken seine volle Länge erreicht hat, bedeutet dies, dass die Einheit ihre volle Kapazität erreicht hat und auch bei zusätzlichem Angebot und Nachfrage keine Waren mehr verarbeiten kann.^^ Umgekehrt werden bei Unterauslastung der Einheit ihre Anlagen und Ressourcen nicht effektiv genutzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This might be one of the reasons why your store is not making as much profit as it should be.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Dies könnte einer der Gründe sein, warum Ihr Geschäft nicht so viel Gewinn macht, wie es sein sollte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The figure in the top right corner of the unit is the ~unit's level~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die Abbildung in der rechten oberen Ecke der Einheit ist die Ebene der ~Einheit~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Im Moment, da die Einheit neu ist, ist dieses Niveau 1.^^^Mit der Zeit und dem Training wird das Niveau steigen und die Einheit wird effizienter werden, da sie in der Lage ist, größere Lagerbestände zu bewältigen und höhere Nachfrage zu befriedigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Diesmal werden Sie tun, was ein erfahrener Einzelhandelsmanager tun würde - manuell ein Paar ~Einkaufs- und Verkaufseinheiten~ für Ihre Filiale einrichten.^^~Doppelklicken~ Sie jetzt auf eine leere Fläche im Layout-Raster und wählen Sie ~Einkaufseinheit~ aus der Liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wählen Sie ~Einkaufseinheit~ aus der Liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Gut gemacht!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Ihr Shop hat jetzt eine neue ~Einkaufseinheit~.^^Fahren Sie fort, eine ~Verkaufseinheit~ hinzuzufügen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Double click~ an empty unit right next to the Purchasing Unit you have just set up.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>~Doppelklicken~ Sie auf eine leere Einheit direkt neben der Einkaufseinheit, die Sie gerade eingerichtet haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select ~Sales Unit~ from the list.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wählen Sie ~Verkaufseinheit~ aus der Liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Verbinden Sie nun die ~Einkaufseinheit~ und die ~Verkaufseinheit~ miteinander, indem Sie auf die Verbindungslinie zwischen ihnen klicken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Ausgezeichnet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The two units are now connected and are going to work with each other.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die beiden Einheiten sind nun verbunden und werden miteinander arbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Lassen Sie die neue Einkaufseinheit arbeiten, indem Sie ihr sagen, bei welchem Lieferanten Sie Produkte bestellen möchten.^^Klicken Sie auf die ~Einkaufseinheit~, um sie auszuwählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click the ~Link~ button and select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Klicken Sie auf die Schaltfläche ~Link~ und wählen Sie ein zu bestellendes Produkt aus der Lieferantenliste aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wählen Sie ein zu bestellendes Produkt aus der Lieferantenliste aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Great job!</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Tolle Arbeit!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Sie haben die Logistik Ihrer Filiale erfolgreich verbessert und ein neues Produkt in Ihre Filiale integriert.^^Nun, lassen Sie uns einen Blick auf die Ihnen zur Verfügung stehenden Informationen über die Produkte werfen, die Ihre Filiale verkauft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die untere linke Hand des Bildschirms zeigt nun Details über Ihre Einkaufseinheit und das Produkt, das sie trägt. ^^^Unter dem Produktbild sehen Sie die Farbidentität des Lieferanten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This color is ~gray if the product is imported via a seaport~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Diese Farbe ist ~grau, wenn das Produkt über einen Seehafen~ importiert wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the supplier is a business corporation, the color shown here is its ~corporate color~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wenn der Lieferant eine Handelsgesellschaft ist, ist die hier gezeigte Farbe seine ~Firmenfarbe~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Hier zeigt es die ~Einkaufskosten~ des Produkts und seine ~Frachtkosten~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=193,280,303,350</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Pointer=193,280,380,300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Hier zeigt es die ~Qualität~ und die ~Markenstufen~ des Produkts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The greater the quality of your product, the more attractive it is to consumers.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Je höher die Qualität Ihres Produkts, desto attraktiver ist es für die Verbraucher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=320,284,408,344</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Pointer=193,300,380,330</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>~Brands~ can be a very important factor for consumers' purchase decisions, especially for luxury and fashion products.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>~Marken~ können ein sehr wichtiger Faktor für die Kaufentscheidung der Verbraucher sein, insbesondere bei Luxus- und Modeprodukten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For example, when it comes to buying jeans, consumers generally pay more attention to the brand than the product's actual quality.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>So achten die Verbraucher beim Kauf von Jeans in der Regel mehr auf die Marke als auf die tatsächliche Qualität des Produkts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A product's ~overall rating~ is calculated based on its price, its quality, and its brand rating.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die ~Gesamtwertung~ eines Produkts wird basierend auf seinem Preis, seiner Qualität und seiner Markenbewertung berechnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a nutshell, ~a low price, high quality, and a high brand rating~ contribute to ~a high overall rating~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Kurz gesagt, ~ein niedriger Preis, hohe Qualität und eine hohe Markenbewertung~ tragen zu ~einer hohen Gesamtbewertung~ bei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Supplier~ button displays information about the existing supplier.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die Schaltfläche ~Lieferant~ zeigt Informationen über den vorhandenen Lieferanten an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Stop Purchase~ button will do exactly that.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die Schaltfläche ~Stop Kauf~ macht genau das.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your purchasing unit will cease to buy the current product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Ihre Einkaufseinheit wird den Kauf des aktuellen Produkts einstellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For now, keep it buying the current product.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Fürs Erste stoppen Sie den Kauf des aktuellen Produkts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die Produkte, die Ihre Einkaufseinheit bestellt hat, sollten inzwischen in Ihr Geschäft geliefert worden sein, und Ihre Einkaufseinheit sollte mit Ihrer Verkaufseinheit zusammenarbeiten, indem sie sie mit Lagerbeständen beliefert.^^Lassen Sie uns einen Blick auf Ihre ~Verkaufseinheit~ werfen, indem Sie sie jetzt auswählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Sales Unit~ basically shows the same information as the Purchasing unit.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die ~Verkaufseinheit~ zeigt im Wesentlichen die gleichen Informationen wie die Einkaufseinheit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Der Button ~Ausräumen~ hier, wie der Name schon sagt, dient dazu, den Produktbestand der Verkaufseinheit zu bereinigen.^^Dies ist nützlich, wenn Sie ein besseres Angebot des gleichen Produkttyps gefunden haben und den neuen so schnell wie möglich verkaufen möchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Clearing the stock in effect free up your retail shelves for the new product immediately.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wenn Sie den Lagerbestand bereinigen, können Sie Ihre Verkaufsregale für das neue Produkt sofort freigeben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You have just learned the advanced skills for retail management and how to order the right products that have strong appeals to your customers.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Sie haben gerade die fortgeschrittenen Fähigkeiten für das Retail-Management erlernt und erfahren, wie Sie die richtigen Produkte bestellen können, die Ihre Kunden stark ansprechen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now ~add one more group~ of ~Purchasing and Sales Units~ to increase the variety of your store's products.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Fügen Sie jetzt ~eine weitere Gruppe~ von ~Einkaufs- und Verkaufseinheiten~ hinzu, um die Vielfalt der Produkte Ihres Geschäfts zu erhöhen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Gut gemacht!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Um ein kompetenter Geschäftsmann zu werden, sollten Sie auch lernen, die Ihnen zur Verfügung stehenden Informationen über Ihr Unternehmen und Ihre Mitbewerber zu verarbeiten. Klicken Sie auf das Symbol ~Information~ in der unteren Symbolleiste, um jetzt den Bildschirm ~Information Center~ zu öffnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=146,6,183,30</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Pointer=156,6,183,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the ~Corporate Summary Report~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Dies ist der ~Corporate Summary Report~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Von hier aus können Sie Details über Ihr Unternehmen und konkurrierende Unternehmen einsehen.^^Für jedes angezeigte Unternehmen können Sie sofort Barwerte, Umsatz- und Gewinnzahlen und zugehörige Balken sowie ein Betriebsergebnis-Diagramm sehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Finally, the corporate logo, corporate color and the CEO's portrait are displayed.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Schließlich werden das Firmenlogo, die Unternehmensfarbe und das Portrait des CEOs angezeigt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wählen Sie aus den Menüoptionen oben rechts auf dem Bildschirm ~Firmenübersicht~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Der Bildschirm ~Firmenübersicht~ zeigt eine Zusammenfassung der Firmen des Unternehmens.^^Jetzt wählen Sie ~Geschäftsbeziehungen~ aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This screen shows which corporations have been trading with your own.^^Now select ~Financial Overview~ to return to the first screen.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Auf diesem Bildschirm wird angezeigt, welche Unternehmen mit Ihren eigenen Produkten gehandelt haben. Wählen Sie nun ~Finanzübersicht~, um zum ersten Bildschirm zurückzukehren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now click your ~corporation's logo~ to view more information.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Klicken Sie nun auf das Logo Ihres ~Unternehmens~, um weitere Informationen anzuzeigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The ~Corporate Detail Report~ contains a lot of useful information about your corporation.^^Through the extensive menu options, you can glean detailed information about your own corporation and any rival corporation you select.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Der ~Unternehmensdetailbericht~ enthält viele nützliche Informationen über Ihr Unternehmen.^^Durch die umfangreichen Menüoptionen können Sie detaillierte Informationen über Ihr eigenes Unternehmen und jedes andere Unternehmen, das Sie auswählen, erhalten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is more than one city in this tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>In diesem Tutorial gibt es mehr als eine Stadt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You should consider expanding your business to other cities, to take advantage of the availabiility of different products or perhaps the absence of strong competition.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Sie sollten erwägen, Ihr Unternehmen auf andere Städte auszudehnen, um die Verfügbarkeit verschiedener Produkte oder vielleicht das Fehlen eines starken Wettbewerbs zu nutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There are two ways to view another city.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Es gibt zwei Möglichkeiten, eine andere Stadt zu sehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first way is to open the ~World Map~ by clicking its icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Der erste Weg ist, die ~Weltkarte~ zu öffnen, indem Sie auf das Symbol in der unteren Symbolleiste klicken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pointer=98,6,137,30</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Pointer=110,6,137,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your present city will be highlighted on the map when it first opens.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Ihre aktuelle Stadt wird beim ersten Öffnen auf der Karte markiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Wenn Sie auf den Namen einer anderen Stadt doppelklicken, die auf der Weltkarte markiert ist, und die Stadtansicht auf dem Hauptbildschirm aktualisiert wird, um diese Stadt anzuzeigen.^^Schließen Sie die Weltkartenansicht, indem Sie entweder auf das X oben rechts in ihrem Fenster klicken oder auf das Weltkartensymbol in der unteren Symbolleiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The second way to view another city is by using the city selection interface on the ~Mini Map~, as explained in the previous tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Die zweite Möglichkeit, eine andere Stadt anzuzeigen, besteht darin, die Städteauswahloberfläche auf der ~Mini Map~ zu verwenden, wie im vorherigen Tutorial erläutert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Jetzt, da Sie gelernt haben, wie man Einzelhandelsgeschäfte verschiedener Art baut und wie man zwischen den Städten navigiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It's time to expand your business empire.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Es ist an der Zeit, Ihr Geschäftsimperium zu erweitern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Hier ist eine Erinnerung an Ihr Ziel für dieses Tutorialspiel: ~einen Jahresumsatz von $50 Millionen~ und ~einen Jahresgewinn von $5 Millionen~ zu erreichen.^^Der ~Ziebericht~ gibt eine Zusammenfassung Ihres Zielstatus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Sie können es jederzeit öffnen, indem Sie das ~Information Center~ öffnen und dann ~Zielbericht~ auswählen, oder indem Sie die Tastenkombination ~G'~ drücken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Although you have a humble beginning, with the new skills you have acquired in this tutorial, achieving the goal shouldn't be difficult!^^Good luck!</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003715Z">
+        <seg>Obwohl Sie einen bescheidenen Anfang haben, sollte es mit den neuen Fertigkeiten, die Sie in diesem Tutorial erworben haben, nicht schwierig sein, das Ziel zu erreichen!^^Viel Glück!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

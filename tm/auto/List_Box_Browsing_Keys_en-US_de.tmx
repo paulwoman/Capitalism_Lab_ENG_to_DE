@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Keys For Browsing Records Within List Boxes^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003415Z">
+        <seg>Tasten zum Durchsuchen von Datensätzen innerhalb von Listboxen^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You can use #PgDn#/#PgUp# keys, and #Up#/#Down# keys to browse records within a list box.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003415Z">
+        <seg>Sie können die Tasten #PgDn#/#PgUp# und #Up#/#Down# verwenden, um Datensätze innerhalb eines Listenfelds zu durchsuchen.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>And use #Home# and #End# keys to jump to the top and bottom of a list box.^</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003415Z">
+        <seg>Und verwenden Sie die Tasten #Home# und #End#, um zum oberen und unteren Ende eines Listenfelds zu springen.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that this is context sensitive — when there are several list boxes on the same screen, you can position your mouse cursor within one of the list boxes and the shortcut keys that you have pressed will affect the respective list box.</seg>
+      </tuv>
+      <tuv xml:lang="de" creationid="OmegaT Aligner" creationdate="20210111T003415Z">
+        <seg>Beachten Sie, dass dies kontextsensitiv ist - wenn sich mehrere Listenfelder auf demselben Bildschirm befinden, können Sie Ihren Mauszeiger innerhalb eines der Listenfelder positionieren und die von Ihnen gedrückten Tastenkombinationen wirken sich auf das jeweilige Listenfeld aus.^</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
